@@ -1,2 +1,2 @@
 # profileWebsite
-This is the first profile website by using HTML, CSS, and JavaScript. In the website have two major animation ONE is ( auto text writing and removing) and OTHER is hamburger menu for small device like tablet and smart phone. We made the website for compatible or responsive for all size of device.
+This is the first profile website by using HTML, CSS, and JavaScript. In the website have two major animation ONE is ( auto text writing and removing) and OTHER is hamburger menu for small device like tablet and smart phone.
